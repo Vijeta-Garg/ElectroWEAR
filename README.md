@@ -35,5 +35,5 @@ This is the wiring diagram/schematic. This includes both the electrical parts of
 
 # BOM (properly formatted in the bom.csv file in the repo) 
 Please note: I don't need reimbursement for any of these materials since I can use research grant money I've gotten for this project! 
-<img width="1614" height="642" alt="image" src="https://github.com/user-attachments/assets/9d5b43d0-17fa-4d1b-874a-dce32d701036" />
+<img width="2708" height="498" alt="image" src="https://github.com/user-attachments/assets/2550d27e-26f0-40a2-9f4b-4c4d42f4d633" />
 
