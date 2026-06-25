@@ -18,3 +18,9 @@ An example of the before and after:
 
 **Now: ElectroWEAR**
 <img width="982" height="1316" alt="image" src="https://github.com/user-attachments/assets/508ca864-12ce-4caa-93dc-d4b3f13c385f" />
+
+
+# BOM (properly formatted in the bom.csv file in the repo) 
+Please note: I don't need reimbursement for any of these materials since I can use research grant money I've gotten for this project! 
+<img width="1614" height="642" alt="image" src="https://github.com/user-attachments/assets/9d5b43d0-17fa-4d1b-874a-dce32d701036" />
+
