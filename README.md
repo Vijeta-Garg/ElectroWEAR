@@ -26,6 +26,7 @@ This is the wiring diagram/schematic. This includes both the electrical parts of
 
 # Layout 
 This is how the circuit is mapped out onto the wearable. Currently the main "control board" is only breadboarded and not PCBed but the files are ready and I just need to order the PCB and substitute it in (that is why that box says breadboard/perfboard/PCB) 
+Also note: if one was to wear ElectroWEAR the battery component would theoretically live in their pant pocket or a string bag. 
 <img width="1824" height="1536" alt="image" src="https://github.com/user-attachments/assets/2e19d0a2-084f-4f0e-a479-0f0f6f71bf8b" />
 
 
